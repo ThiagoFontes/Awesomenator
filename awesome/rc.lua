@@ -219,7 +219,7 @@ mymainmenu = awful.menu({ items = {
 	--{ "Daemons", daemonsmenu},
 	--{"ApacheDS", apacheds, apacheds_icon},
 	--{"Sublime", sublime,sublime_icon},
-	--{ "open terminal", terminal, beautiful.terminal_icon },
+	{ "open terminal", terminal, beautiful.terminal_icon },
 	{ "Reboot", "reboot", beautiful.restart_icon},
 	{ "Shutdown", "shutdown now", beautiful.shutdown_icon}}
 })
