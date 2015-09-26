@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="180"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="arrow_vectorial_model.svg"
+   inkscape:export-filename="C:\GIT\awesome-copycats\themes\powerarrow-greener\icons\arrl.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect2989"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2987"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="122.44897"
+     inkscape:cy="93.643477"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-872.36218)">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+       id="rect3763"
+       width="100"
+       height="180"
+       x="0"
+       y="0"
+       transform="translate(0,872.36218)" />
+    <path
+       style="fill:#71c837;stroke:#710000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 100,0 5,90 100.0051,180"
+       id="path2991"
+       inkscape:connector-curvature="0"
+       transform="translate(0,872.36218)"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#71c837;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 0.3261392,90.023095 0,-89.65103872 49.3571758,0 c 48.540248,0 49.340688,0.0159173 48.361052,0.96169602 C 97.496501,1.8626851 76.25173,21.99023 50.833766,46.06163 25.415803,70.133029 4.6192875,89.913316 4.6192875,90.017827 c 0,0.10451 20.5692315,19.656423 45.7094025,43.448693 25.140172,23.79228 46.386887,43.92219 47.214919,44.73315 l 1.505516,1.47446 -49.361493,0 -49.3614928,0 0,-89.651035 z"
+       id="path3837"
+       inkscape:connector-curvature="0"
+       transform="translate(0,872.36218)" />
+  </g>
+</svg>
